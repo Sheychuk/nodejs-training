@@ -1,1 +1,2 @@
-console.log(__dirname);
+const os = require('os')
+console.log(os);
